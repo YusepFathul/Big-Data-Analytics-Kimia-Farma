@@ -42,6 +42,10 @@ The following datasets were used:
 2. `kf_inventory` – Inventory data
 3. `kf_kantor_cabang` – Branch office information
 4. `kf_product` – Product details
+5. 'kimia_farma_analysis' - Merged dataset
+   
+🔗 [Link dataset](https://drive.google.com/drive/folders/1NzBk0OemXnXI0PkCYcoVNJdBuVkXYDBC?usp=sharing)
+   
 
 ---
 
